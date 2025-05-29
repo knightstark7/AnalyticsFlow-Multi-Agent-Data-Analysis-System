@@ -326,18 +326,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
+- **[DataGen](https://github.com/starpig1129/DATAGEN)** - Many thanks to original inspiration for multi-agent data analysis
 - **OpenAI** for providing powerful language models
 - **LangChain** for the agent framework
 - **Streamlit** for the web interface
-- **Contributors** who help improve this project
-
-## 📞 Support
-
-- **Documentation**: [Wiki](https://github.com/knightstark7/AnalyticsFlow-Multi-Agent-Data-Analysis-System/wiki)
-- **Issues**: [GitHub Issues](https://github.com/knightstark7/AnalyticsFlow-Multi-Agent-Data-Analysis-System/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/knightstark7/AnalyticsFlow-Multi-Agent-Data-Analysis-System/discussions)
-- **Email**: support@analyticsflow.dev
-
 ---
 
 <div align="center">
